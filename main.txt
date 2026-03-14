@@ -1,2 +1,3 @@
 Hie, I'm kratik patidar currently learning DevOps.
 Today 14th March 2026 we started learning the basic tutorial of Git and GitHub.
+Hello My name is Kratik Patidar currently learning the DevOps.
